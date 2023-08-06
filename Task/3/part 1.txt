@@ -2,11 +2,15 @@ Talk about usage of hash function in python data structures
 
 
 Hash function in python use to optimize search, retrieval operations and faster data access.
-It takes an input and converts it into a value, typically an integer value.This generated value is used as an index to store and retrieve data in data structures.
+It takes an input and converts it into a value, typically an integer value.This generated 
+value is used as an index to store and retrieve data in data structures.
 Used in two essential Python data structures, Two ways are implemented using a hash table:
 
 1-Dictionaries :
-Python calculates the hash value of the key using the hash function.The hash value is used as an index to store the key-value pair in a memory location. When you want to retrieve a value associated with a specific key, Python calculates the hash of the key again and uses it to quickly locate the value in the memory.
+Python calculates the hash value of the key using the hash function.The hash value is used
+as an index to store the key-value pair in a memory location. When you want to retrieve a value
+ associated with a specific key, Python calculates the hash of the key again and uses it to quickly 
+locate the value in the memory.
 
 2-Sets :
 When add an element to a set using the add() method, Python calculates the hash value
