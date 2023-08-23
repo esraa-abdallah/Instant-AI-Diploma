@@ -1,0 +1,41 @@
+part 1
+
+Websites for live Datasets:
+
+fire.airnow
+https://fire.airnow.gov/
+
+weather
+https://weather.com/ar-JO/weather/today/l/JOXX0002:1:JO?Goto=Redirected
+
+World Health Organization
+https://www.who.int/data/gho/data/major-themes/health-emergencies
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+part 2 
+
+Create Account on Kaggle
+
+https://www.kaggle.com/esraaabdallahgh
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+part 3
+
+What's RPA and it's tools?
+
+RPA stands for Robotic Process Automation. It is the technology used for software tools that automate human tasks, which are manual, rule-based, or repetitive.
+These RPA software bots never sleep and make zero mistakes, and can interact with in-house applications, websites, user portals, etc. They can log into applications, enter data, open emails and attachments, calculate and complete tasks, and then log out.
+
+RPA Tools
+
+UiPath
+Blue Prism
+Automation Anywhere
+Pega
+WorkFusion
+Jacada
+WinAutomation
+NICE Systems
+Contextor
+
