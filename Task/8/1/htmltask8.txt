@@ -1,0 +1,440 @@
+<li class="item finish" livescorematchid="89843">
+<a href="/fiba-basketball-world-cup/2819/match/89843/%d8%ac%d9%86%d9%88%d8%a8-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%b5%d8%b1%d8%a8%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<div class="channel icon-channel">بى ان سبورت 4 HD</div>
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الجولة الثالثة</div>
+<div class="matchStatus">
+<span>انتهت</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="جنوب السودان" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2022\8\3\south_sudan12022_8_3_17_59.jpg"/>
+<p>جنوب السودان</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">83</span>
+<span>-</span>
+<span class="score">115</span>
+<span class="time">11:00</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="صربيا" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\16\serbia12023_8_16_22_43.jpg"/>
+<p>صربيا</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/fiba-basketball-world-cup/2819/match/89843/%d8%ac%d9%86%d9%88%d8%a8-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%b5%d8%b1%d8%a8%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item finish" livescorematchid="89849">
+<a href="/fiba-basketball-world-cup/2819/match/89849/%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d8%a7-%d9%81%d9%86%d8%b2%d9%88%d9%8a%d9%84%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<div class="channel icon-channel">بى ان سبورت 3 HD</div>
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الجولة الثالثة</div>
+<div class="matchStatus">
+<span>انتهت</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="جورجيا" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\17\georgia12023_8_17_18_51.jpg"/>
+<p>جورجيا</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">70</span>
+<span>-</span>
+<span class="score">59</span>
+<span class="time">11:00</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="فنزويلا" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\17\venezuela12023_8_17_18_56.jpg"/>
+<p>فنزويلا</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/fiba-basketball-world-cup/2819/match/89849/%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d8%a7-%d9%81%d9%86%d8%b2%d9%88%d9%8a%d9%84%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item finish" livescorematchid="89845">
+<a href="/fiba-basketball-world-cup/2819/match/89845/%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<div class="channel icon-channel">بى ان سبورت 1HD</div>
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الجولة الثالثة</div>
+<div class="matchStatus">
+<span>انتهت</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="الولايات المتحدة" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\16\united_states12023_8_16_23_27.jpg"/>
+<p>الولايات المتحدة</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">110</span>
+<span>-</span>
+<span class="score">62</span>
+<span class="time">11:40</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="الأردن" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\16\jordan12023_8_16_23_40.jpg"/>
+<p>الأردن</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/fiba-basketball-world-cup/2819/match/89845/%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item finish" livescorematchid="89851">
+<a href="/fiba-basketball-world-cup/2819/match/89851/%d9%83%d9%88%d8%aa-%d8%af%d9%8a%d9%81%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<div class="channel icon-channel">بى ان سبورت 2 HD</div>
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الجولة الثالثة</div>
+<div class="matchStatus">
+<span>انتهت</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="كوت ديفوار" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\17\ivory112023_8_17_19_0.jpg"/>
+<p>كوت ديفوار</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">77</span>
+<span>-</span>
+<span class="score">89</span>
+<span class="time">12:45</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="البرازيل" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\17\brazil12023_8_17_19_3.jpg"/>
+<p>البرازيل</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/fiba-basketball-world-cup/2819/match/89851/%d9%83%d9%88%d8%aa-%d8%af%d9%8a%d9%81%d9%88%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item finish" livescorematchid="89850">
+<a href="/fiba-basketball-world-cup/2819/match/89850/%d8%b3%d9%84%d9%88%d9%81%d9%8a%d9%86%d9%8a%d8%a7-%d9%83%d8%a7%d8%a8-%d9%81%d9%8a%d8%b1%d8%af%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<div class="channel icon-channel">بى ان سبورت 4 HD</div>
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الجولة الثالثة</div>
+<div class="matchStatus">
+<span>انتهت</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="سلوفينيا" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\17\slovenia12023_8_17_18_37.jpg"/>
+<p>سلوفينيا</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">92</span>
+<span>-</span>
+<span class="score">77</span>
+<span class="time">14:30</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="كاب فيردي" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2022\8\3\cape_verde12022_8_3_17_24.jpg"/>
+<p>كاب فيردي</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/fiba-basketball-world-cup/2819/match/89850/%d8%b3%d9%84%d9%88%d9%81%d9%8a%d9%86%d9%8a%d8%a7-%d9%83%d8%a7%d8%a8-%d9%81%d9%8a%d8%b1%d8%af%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item finish" livescorematchid="89844">
+<a href="/fiba-basketball-world-cup/2819/match/89844/%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%a8%d9%88%d8%b1%d8%aa%d9%88%d8%b1%d9%8a%d9%83%d9%88-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<div class="channel icon-channel">بى ان سبورت 3 HD</div>
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الجولة الثالثة</div>
+<div class="matchStatus">
+<span>انتهت</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="الصين" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\16\china12023_8_16_22_51.jpg"/>
+<p>الصين</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">89</span>
+<span>-</span>
+<span class="score">107</span>
+<span class="time">15:00</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="بورتوريكو" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\16\puerto12023_8_16_22_59.jpg"/>
+<p>بورتوريكو</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/fiba-basketball-world-cup/2819/match/89844/%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%a8%d9%88%d8%b1%d8%aa%d9%88%d8%b1%d9%8a%d9%83%d9%88-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item now" livescorematchid="89846">
+<a href="/fiba-basketball-world-cup/2819/match/89846/%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%86--%d9%86%d9%8a%d9%88%d8%b2%d9%8a%d9%84%d9%86%d8%af%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<div class="channel icon-channel">بى ان سبورت 2 HD</div>
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الجولة الثالثة</div>
+<div class="matchStatus">
+<span>مباشر</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="اليونان " onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\16\greece12023_8_16_23_46.jpg"/>
+<p>اليونان </p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">77</span>
+<span>-</span>
+<span class="score">69</span>
+<span class="time">15:40</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="نيوزيلندا" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\17\new_zealand12023_8_17_16_11.jpg"/>
+<p>نيوزيلندا</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/fiba-basketball-world-cup/2819/match/89846/%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%86--%d9%86%d9%8a%d9%88%d8%b2%d9%8a%d9%84%d9%86%d8%af%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item now" livescorematchid="89852">
+<a href="/fiba-basketball-world-cup/2819/match/89852/%d8%a7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<div class="channel icon-channel">بى ان سبورت 1HD</div>
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الجولة الثالثة</div>
+<div class="matchStatus">
+<span>مباشر</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="ايران" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\17\iran12023_8_17_18_39.jpg"/>
+<p>ايران</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">34</span>
+<span>-</span>
+<span class="score">43</span>
+<span class="time">16:30</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="إسبانيا" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2023\8\17\spain12023_8_17_18_48.jpg"/>
+<p>إسبانيا</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/fiba-basketball-world-cup/2819/match/89852/%d8%a7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item future" livescorematchid="90025">
+<a href="/carabao-cup/2856/match/90025/%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a--%d9%88%d9%8a%d9%85%d8%a8%d9%84%d8%af%d9%88%d9%86-%d9%83%d8%a3%d8%b3-%d9%83%d8%a7%d8%b1%d8%a7%d8%a8%d8%a7%d9%88#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<!--Time & Status-->
+<div class="topData">
+<div class="date">التصفيات التأهيلية 2 
+</div>
+<div class="matchStatus">
+<span>لم تبدأ</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="تشيلسي     " onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2018\7\29\Chelsea2018_7_29_15_28.jpg"/>
+<p>تشيلسي     </p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">-</span>
+<span>-</span>
+<span class="score">-</span>
+<span class="time">21:45</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="ويمبلدون" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2019\1\20\Wimbledon2019_1_20_14_20.jpg"/>
+<p>ويمبلدون</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/carabao-cup/2856/match/90025/%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a--%d9%88%d9%8a%d9%85%d8%a8%d9%84%d8%af%d9%88%d9%86-%d9%83%d8%a3%d8%b3-%d9%83%d8%a7%d8%b1%d8%a7%d8%a8%d8%a7%d9%88#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item future" livescorematchid="89739">
+<a href="/tunisian-league/2853/match/89739/%d8%a7%d9%84%d9%85%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%85%d8%a8%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d8%ac%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الأسبوع الثاني
+</div>
+<div class="matchStatus">
+<span>لم تبدأ</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="الملعب التونسي" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2018\7\25\AlmalaabTunisien2018_7_25_15_54.jpg"/>
+<p>الملعب التونسي</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">-</span>
+<span>-</span>
+<span class="score">-</span>
+<span class="time">18:30</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="الأولمبي الباجي" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2021\9\8\OlympiqueDeBeja2021_9_8_11_8.jpg"/>
+<p>الأولمبي الباجي</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/tunisian-league/2853/match/89739/%d8%a7%d9%84%d9%85%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%85%d8%a8%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d8%ac%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
+<li class="item future" livescorematchid="89806">
+<a href="/morrocan-league/2851/match/89806/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a#MC_MatcheDetails" title="تفاصيل المباراة">
+<div class="allData">
+<!-- Match Top Data -->
+<!--Time & Status-->
+<div class="topData">
+<div class="date">الأسبوع الأول
+</div>
+<div class="matchStatus">
+<span>لم تبدأ</span>
+</div>
+</div>
+<!--Teams-->
+<div class="teamCntnr">
+<div class="teamsData">
+<!-- Team A -->
+<div class="teams teamA">
+<img alt="الجيش الملكي" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2018\7\24\AlgaishElmalaky2018_7_24_17_49.jpg"/>
+<p>الجيش الملكي</p>
+</div>
+<!-- Match Result -->
+<div class="MResult">
+<span class="score">-</span>
+<span>-</span>
+<span class="score">-</span>
+<span class="time">21:15</span>
+</div>
+<!-- Team B -->
+<div class="teams teamB">
+<img alt="شباب المحمدية" onerror="this.onerror=null;this.src='https://media.gemini.media/img/yallakora/IOSTeams/YK-Generic-team-logo.png'" src="https://media.gemini.media/img/yallakora/IOSTeams//120/\2021\9\23\ChababMohammedia2021_9_23_16_19.jpg"/>
+<p>شباب المحمدية</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<div class="leftCol">
+<a class="button details" href="/morrocan-league/2851/match/89806/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a#MC_MatcheDetails">التفاصيل</a>
+</div>
+</li>
